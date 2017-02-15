@@ -30,25 +30,29 @@ Type part of a snippet, press `enter`, and the snippet unfolds.
 
 ### TypeScript Snippets
 ```typescript
-ng2-component-root  // Angular 2 root App component
-ng2-bootstrap       // Angular 2 bootstraping, for main.ts
-ng2-component       // Angular 2 component
-ng2-pipe            // Angular 2 pipe
-ng2-routes          // Angular 2 @Routes
-ng2-route-path      // Angular 2 routing path
-ng2-service         // Angular 2 service
-ng2-subscribe       // Angular 2 observable subscription
+a-bootstrap       // Angular bootstrapping, for main.ts
+a-component       // Angular component
+a-component-root  // Angular root app component
+a-http-get        // Angular http.get with Rx Observable
+a-module          // Angular module
+a-module-root     // Angular root app module
+a-pipe            // Angular pipe
+a-routing         // Angular routing
+a-service         // Angular service
+a-subscribe       // Angular Rx Observable subscription
 ```
 
-### HTML Snippets
+###HTML Snippets
 ```html
-ng2-ngClass
-ng2-ngFor
-ng2-ngIf
-ng2-ngModel
-ng2-routerLink
-ng2-ngStyle
-ng2-ngSwitch
+a-ngClass
+a-ngFor
+a-ngIf
+a-ngModel
+a-routerLink
+a-ngStyle
+a-ngSwitch
+a-prej
+a-preja
 ```
 
 ![Usage in HTML](images/html-snippets.gif)
